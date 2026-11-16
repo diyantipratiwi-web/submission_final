@@ -1,0 +1,4 @@
+# Tautan Streamlit Cloud Dashboard Anda
+# Setelah mendeploy dashboard/dashboard.py ke Streamlit Community Cloud (https://share.streamlit.io),
+# ganti baris di bawah ini dengan URL aplikasi Streamlit Cloud Anda:
+https://bike-sharing-analytics-diyanti.streamlit.app/
